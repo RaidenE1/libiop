@@ -72,6 +72,12 @@ directory:
     $ make
 ```
 
+Then you can run the tests:
+
+```bash
+    $ cd libiop && ./test_aurora_snark
+```
+
 Build flags include:
 | Flag | Value | Description |
 | ---- | ----- | ----------- |
